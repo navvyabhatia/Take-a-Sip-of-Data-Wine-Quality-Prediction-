@@ -29,14 +29,24 @@ The project uses the Wine Quality Dataset from the UCI Machine Learning Reposito
 
 # Repository Structure
 
+```text
 wine-quality-prediction/
+│
 ├── README.md
-├── MLFinalProject-FINAL.ipynb
-├── ML Final Project Written Report Document.pdf
-├── ML Final Project.pdf
-└── data/
-    ├── winequality-red.csv
-    └── winequality-white.csv
+│
+├── notebooks/
+│   └── MLFinalProject-FINAL.ipynb
+│
+├── reports/
+│   ├── ML-Final-Project-Report.pdf
+│   └── ML-Final-Project-Presentation.pdf
+│
+├── data/
+│   ├── winequality-red.csv
+│   └── winequality-white.csv
+│
+└── .gitignore
+```
 
 # Input Features
 1. Fixed acidity
