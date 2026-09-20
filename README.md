@@ -44,8 +44,6 @@ wine-quality-prediction/
 ├── data/
 │   ├── winequality-red.csv
 │   └── winequality-white.csv
-│
-└── .gitignore
 ```
 
 # Input Features
